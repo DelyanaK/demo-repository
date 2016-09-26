@@ -1,7 +1,5 @@
 NOV FAIL
-<<<<<<< HEAD
-Updating with Bash...
-=======
 
+Updating with Bash...
 Update with Tortoise...
->>>>>>> 6314fde94e82577bf97e7a5637ee0e9728b85fc9
+
